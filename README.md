@@ -19,6 +19,6 @@ Ici, je présente mes projets en analyse de données, machine learning et visual
 | **Analyse marketing** | Exploration des données de campagnes marketing et recommandations stratégiques | Python, Seaborn | [Voir le projet](03-marketing-analytics/) |
 
 ## 📬 Me contacter
-- LinkedIn : [Mon profil](https://linkedin.com/in/tonprofil)
+- LinkedIn : [Mon profil](https://www.linkedin.com/in/luc-obama-b9b268296/)
 - Upwork : [Mon profil freelance](https://www.upwork.com/freelancers/~01df428797d0dc0af1)
 - Email : obamaluc36@gmail.com
